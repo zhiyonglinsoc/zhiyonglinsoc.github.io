@@ -12,3 +12,7 @@ Zhiyong Lin, Ph.D. is an Assistant Professor of Sociology and Demography at The 
 His work has been published in leading journals such as *Social Forces*, *Demography*, *Journal of Health and Social Behavior*, *Journal of Marriage and Family*, and *The Gerontologist*. He has received research support from multiple institutions and was selected as a 2026 Butler-Williams Scholar by the National Institute on Aging.
 
 You can find his CV [here](/files/Zhiyong_Lin_CV.pdf){:target="_blank"}.
+
+## News
+
+{% include news.html %}
