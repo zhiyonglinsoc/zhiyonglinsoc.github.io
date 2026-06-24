@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Zhiyong Lin, Ph.D. is an Assistant Professor of Sociology and Demography at The University of Texas at San Antonio. His research examines how social relationships shape health and caregiving across the life course, with particular attention to aging, health disparities, social isolation, family relationships, and care networks.
+Zhiyong Lin is an Assistant Professor of Sociology and Demography at the University of Texas at San Antonio. His research examines how social relationships shape health and caregiving across the life course, with particular attention to aging, health disparities, social isolation, family relationships, and care networks.
 
 His work has been published in leading journals such as *Social Forces*, *Demography*, *Journal of Health and Social Behavior*, *Journal of Marriage and Family*, and *The Gerontologist*. He has received research support from multiple institutions and was selected as a 2026 Butler-Williams Scholar by the National Institute on Aging.
 
