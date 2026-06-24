@@ -23,13 +23,15 @@ repository               : "zhiyonglinsoc/zhiyonglinsoc.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Zhiyong Lin"
   pronouns         : 
   bio              : "Sociologist, Demographer, Gerontologist"
   location         : 
-  employer         : "UT San Antonio"
-  uri              : "https://hcap.utsa.edu/faculty/profiles/lin-zhiyong.html"
+  employer         : |
+    University of Texas at
+    San Antonio
+  uri              : 
   email            : "zhiyong.lin@utsa.edu" 
 
   # Academic websites
@@ -125,7 +127,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true
   path                   : # blank (default) uses feed.xml
 
 
