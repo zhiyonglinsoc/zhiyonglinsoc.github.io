@@ -8,16 +8,28 @@ My teaching covers aging, health, inequality, and quantitative methods. At the U
 
 ## Undergraduate Courses
 
-**Gerontology / Aging in Society**
+**SOC 3203: Gerontology / Aging in Society**
 
 This course introduces students to population aging as a major social change. Students examine aging through topics such as health, family, care, work and retirement, inequality, death and bereavement, and global aging.
 
-**Health Disparities**
+**SOC 3213: Medical Sociology**
+
+This course introduces students to sociological perspectives on health, illness, and medicine. Students examine the illness experience, medical institutions, medical authority, health-related industries, genetics and society, and health social movements.
+
+**SOC 4683: Health Disparities**
 
 This course examines how social factors shape health and health care inequalities in the United States. Students explore how race/ethnicity, socioeconomic status, gender, neighborhoods, and communities contribute to unequal health outcomes.
 
 ## Graduate Courses
 
-* **Sexual Orientation and Health**
-* **Statistical Methods for Demographic Data I**
-* **Mortality**
+**DEM 5273/7273: Statistical Methods for Demographic Data I**
+
+This course introduces graduate students to statistical analysis and data management using demographic data. Students learn descriptive statistics, hypothesis testing, regression models, data visualization, and applied programming in R.
+
+**SOC 6903: Sexual Orientation and Health**
+
+This graduate seminar examines health and health care among sexual minority populations across social, cultural, historical, and geographic contexts. Students engage with research on health disparities, social relationships, family, health care access, aging, and well-being.
+
+**DEM 5033/7033: Mortality**
+
+This graduate seminar examines mortality from a social demography perspective, with a focus on inequality in survival and the timing of death. Students study how mortality varies by race and ethnicity, gender, socioeconomic status, place, family relationships, and historical context.
