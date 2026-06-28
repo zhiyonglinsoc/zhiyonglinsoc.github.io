@@ -10,7 +10,7 @@ My teaching covers aging, health, inequality, and quantitative methods. At the U
 
 **SOC 3203: Gerontology / Aging in Society**
 
-This course introduces students to population aging as a major social change. Students examine aging through topics such as family, care, retirement, inequality, death, and global aging (**Core course of the [Health, Aging & Society](https://future.utsa.edu/programs/undergraduate/health-aging-society/){:target="_blank"} degree**).
+This course introduces students to population aging as a major social change. Students examine aging through topics such as family, care, retirement, inequality, death, and global aging (Core course of the [Health, Aging & Society](https://future.utsa.edu/programs/undergraduate/health-aging-society/){:target="_blank"} degree).
 
 **SOC 3213: Medical Sociology**
 
@@ -24,7 +24,7 @@ This course examines how social factors shape health and health care inequalitie
 
 **DEM 5273/7273: Statistical Methods for Demographic Data I**
 
-This course introduces graduate students to statistical analysis and data management using demographic data. Students learn descriptive statistics, hypothesis testing, regression models, data visualization, and applied programming in R.
+This course introduces graduate students to statistical analysis and data management using demographic data. Students learn descriptive statistics, hypothesis testing, regression models, data visualization, and applied programming in R (Core course of the [Applied Demography Ph.D.](https://future.utsa.edu/programs/doctoral/applied-demography/){:target="_blank"}).
 
 **SOC 6903: Sexual Orientation and Health**
 
@@ -32,4 +32,4 @@ This graduate seminar examines health and health care among sexual minority popu
 
 **DEM 5033/7033: Mortality**
 
-This graduate seminar examines mortality from a social demography perspective, with a focus on inequality in survival and the timing of death. Students study how mortality varies by race and ethnicity, gender, socioeconomic status, place, family relationships, and historical context.
+This graduate seminar examines mortality from a social demography perspective, with a focus on inequality in survival and the timing of death. Students study how mortality varies by race and ethnicity, gender, socioeconomic status, place, family relationships, and historical context (Core course of the [Applied Demography Ph.D.](https://future.utsa.edu/programs/doctoral/applied-demography/){:target="_blank"}).
