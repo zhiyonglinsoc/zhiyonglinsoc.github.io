@@ -1,15 +1,23 @@
 ---
 permalink: /teaching/
+title: "Teaching"
 author_profile: true
 ---
 
 My teaching covers aging, health, inequality, and quantitative methods. At UT San Antonio, I have taught undergraduate and graduate courses across sociology and demography programs.
 
-## Courses Taught
+## Undergraduate Courses
 
-* SOC 3203: Gerontology
-* SOC 3213: Medical Sociology
-* SOC 4683: Health Disparities
-* SOC 6903: Sexual Orientation and Health
-* DEM 5273/7273: Statistical Methods for Demographic Data I
-* DEM 5033/7033: Mortality
+**Gerontology / Aging in Society**
+
+This course introduces students to population aging as a major social change. Students examine aging through topics such as health, family, care, work and retirement, inequality, death and bereavement, and global aging.
+
+**Health Disparities**
+
+This course examines how social factors shape health and health care inequalities in the United States. Students explore how race/ethnicity, socioeconomic status, gender, neighborhoods, and communities contribute to unequal health outcomes.
+
+## Graduate Courses
+
+* **Sexual Orientation and Health**
+* **Statistical Methods for Demographic Data I**
+* **Mortality**
