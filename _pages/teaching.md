@@ -4,7 +4,7 @@ title: "Teaching"
 author_profile: true
 ---
 
-My teaching covers aging, health, inequality, and quantitative methods. At UT San Antonio, I have taught undergraduate and graduate courses across sociology and demography programs.
+My teaching covers aging, health, inequality, and quantitative methods. At the University of Texas - San Antonio, I have taught undergraduate and graduate courses across sociology and demography programs.
 
 ## Undergraduate Courses
 
