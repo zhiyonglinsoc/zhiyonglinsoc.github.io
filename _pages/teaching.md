@@ -10,7 +10,7 @@ My teaching covers aging, health, inequality, and quantitative methods. At the U
 
 **SOC 3203: Gerontology / Aging in Society**
 
-This course introduces students to population aging as a major social change. Students examine aging through topics such as health, family, care, work and retirement, inequality, death and bereavement, and global aging (**Core course of the [Health, Aging & Society](https://future.utsa.edu/programs/undergraduate/health-aging-society#admissions){:target="_blank"} degree**).
+This course introduces students to population aging as a major social change. Students examine aging through topics such as family, care, retirement, inequality, death, and global aging (**Core course of the [Health, Aging & Society](https://future.utsa.edu/programs/undergraduate/health-aging-society/){:target="_blank"} degree**).
 
 **SOC 3213: Medical Sociology**
 
