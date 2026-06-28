@@ -1,11 +1,10 @@
 ---
 permalink: /research/
+title: "Research"
 author_profile: true
 ---
 
-<figure class="page-header-image page-header-image--compact">
-  <img src="/images/research.png" alt="My Research: social relationships and health, care networks and care gaps, and global perspectives on aging and family">
-</figure>
+My research focuses on the social foundations of health, aging, and caregiving. Using longitudinal and cross-national data, I examine how social relationships, family systems, and care arrangements shape well-being across the life course and across social contexts.
 
 ## Social Relationships and Health Across the Life Course
 
