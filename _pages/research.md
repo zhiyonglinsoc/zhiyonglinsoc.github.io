@@ -6,6 +6,10 @@ author_profile: true
 
 My research focuses on the social foundations of health, aging, and caregiving. Using longitudinal and cross-national data, I examine how social relationships, family systems, and care arrangements shape well-being over the life course and in different social contexts.
 
+<figure class="page-header-image page-header-image--compact research-intro-image">
+  <img src="/images/research.png" alt="My research: social relationships and health, care networks and care gaps, and global perspectives on aging and family">
+</figure>
+
 ## Social Relationships and Health Across the Life Course
 
 My research examines how social relationships shape health from early life to later life. I study both the presence and loss of social ties, including family bereavement, social isolation, and unequal access to supportive relationships. A central goal of this work is to understand how social inequality becomes part of people's health trajectories over time, especially across race, ethnicity, gender, and sexual orientation. This line of research shows that social connection is not only a personal experience but also a social condition shaped by broader systems of inequality.
