@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-My research focuses on the social foundations of health, aging, and caregiving. Using longitudinal and cross-national data, I examine how social relationships, family systems, and care arrangements shape well-being across the life course and across social contexts.
+My research focuses on the social foundations of health, aging, and caregiving. Using longitudinal and cross-national data, I examine how social relationships, family systems, and care arrangements shape well-being over the life course and in different social contexts.
 
 ## Social Relationships and Health Across the Life Course
 
