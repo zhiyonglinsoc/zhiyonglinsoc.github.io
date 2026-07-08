@@ -26,10 +26,10 @@ This course examines how social factors shape health and health care inequalitie
 
 This course introduces graduate students to statistical analysis and data management using demographic data. Students learn descriptive statistics, hypothesis testing, regression models, and data visualization in R (core course of the PhD in [Applied Demography](https://future.utsa.edu/programs/doctoral/applied-demography/){:target="_blank"}).
 
-**SOC 6903: Sexual Orientation and Health**
-
-This graduate seminar examines health and health care among sexual minority populations across social, cultural, historical, and geographic contexts. Students engage with research on health disparities, social relationships, family, health care access, aging, and well-being.
-
 **DEM 5033/7033: Mortality**
 
 This graduate seminar examines mortality from a social demography perspective, with a focus on inequality in survival. Students study how mortality varies by race/ethnicity, gender, socioeconomic status, and more (core course of the PhD in [Applied Demography](https://future.utsa.edu/programs/doctoral/applied-demography/){:target="_blank"}).
+
+**SOC 6903: Sexual Orientation and Health**
+
+This graduate seminar examines health and health care among sexual minority populations across social, cultural, historical, and geographic contexts. Students engage with research on health disparities, social relationships, family, health care access, aging, and well-being.
